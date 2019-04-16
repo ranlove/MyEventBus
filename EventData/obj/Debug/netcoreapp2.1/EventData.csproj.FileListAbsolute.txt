@@ -1,0 +1,11 @@
+E:\Code\EventData\EventData\bin\Debug\netcoreapp2.1\EventData.deps.json
+E:\Code\EventData\EventData\bin\Debug\netcoreapp2.1\EventData.runtimeconfig.json
+E:\Code\EventData\EventData\bin\Debug\netcoreapp2.1\EventData.runtimeconfig.dev.json
+E:\Code\EventData\EventData\bin\Debug\netcoreapp2.1\EventData.dll
+E:\Code\EventData\EventData\bin\Debug\netcoreapp2.1\EventData.pdb
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.csprojAssemblyReference.cache
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.csproj.CoreCompileInputs.cache
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.AssemblyInfoInputs.cache
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.AssemblyInfo.cs
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.dll
+E:\Code\EventData\EventData\obj\Debug\netcoreapp2.1\EventData.pdb
